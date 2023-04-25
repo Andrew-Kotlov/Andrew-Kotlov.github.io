@@ -1,0 +1,10 @@
+.slider_container {
+    width: 100vw;
+    height: 200px;
+}
+.slider_wrapper {
+    background-color: bisque;
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+}

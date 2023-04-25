@@ -1,0 +1,55 @@
+.BlockPrice_container {
+    margin-top: 25px;
+    width: 100vw;
+    height: 300px;
+}
+.Price_block {
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+}
+.Block_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+}
+.Price_text {
+    color: #f1f1f1;
+    width: 18%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #182D55;
+    border-radius: 28px;
+    transition: .2s ease-in-out;
+    box-shadow: 4px 9px 12px 1px rgba(0, 0, 0, 0.53);
+}
+.Price_text:hover {
+    scale: 1.02;
+}
+.Price_text button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+    width: 200px;
+    height: 35px;
+    background-color: #2D91EB;
+    border-radius: 10px;
+    transition: .2s ease-in-out;
+    color: #f1f1f1;
+}
+.Price_text button:hover {
+    background-color: #ffc500;
+    /* scale: 1.1; */
+}
+.Price_text button:active {
+    background-color: #ffc500;
+    scale: 0.95;
+}

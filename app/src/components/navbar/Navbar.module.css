@@ -1,0 +1,20 @@
+.topBar {
+    width: 100vw;
+    height: 60px;
+    background-color: #f0f0f0;
+}
+.topBar_logo {
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+}
+.logo_img {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo_img img {
+    width: 164px;
+    height: 40px;
+}
