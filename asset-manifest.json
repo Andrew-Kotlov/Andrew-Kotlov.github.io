@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Andrew-Kotlov.github.io/static/css/main.337ab7b8.css",
-    "main.js": "/Andrew-Kotlov.github.io/static/js/main.f8353415.js",
-    "static/media/parking.jpg": "/Andrew-Kotlov.github.io/static/media/parking.f2b83667d8712d3db84e.jpg",
-    "static/media/media.jpg": "/Andrew-Kotlov.github.io/static/media/media.3a28015c059e4306429a.jpg",
-    "static/media/img.jpg": "/Andrew-Kotlov.github.io/static/media/img.1e95b8671463448f35fe.jpg",
-    "static/media/logo.png": "/Andrew-Kotlov.github.io/static/media/logo.fb7fbe6ff6f680658113.png",
-    "index.html": "/Andrew-Kotlov.github.io/index.html",
-    "main.337ab7b8.css.map": "/Andrew-Kotlov.github.io/static/css/main.337ab7b8.css.map",
-    "main.f8353415.js.map": "/Andrew-Kotlov.github.io/static/js/main.f8353415.js.map"
+    "main.css": "/test_test_MAKS/static/css/main.337ab7b8.css",
+    "main.js": "/test_test_MAKS/static/js/main.c87bb138.js",
+    "static/media/parking.jpg": "/test_test_MAKS/static/media/parking.f2b83667d8712d3db84e.jpg",
+    "static/media/media.jpg": "/test_test_MAKS/static/media/media.3a28015c059e4306429a.jpg",
+    "static/media/img.jpg": "/test_test_MAKS/static/media/img.1e95b8671463448f35fe.jpg",
+    "static/media/logo.png": "/test_test_MAKS/static/media/logo.fb7fbe6ff6f680658113.png",
+    "index.html": "/test_test_MAKS/index.html",
+    "main.337ab7b8.css.map": "/test_test_MAKS/static/css/main.337ab7b8.css.map",
+    "main.c87bb138.js.map": "/test_test_MAKS/static/js/main.c87bb138.js.map"
   },
   "entrypoints": [
     "static/css/main.337ab7b8.css",
-    "static/js/main.f8353415.js"
+    "static/js/main.c87bb138.js"
   ]
 }
